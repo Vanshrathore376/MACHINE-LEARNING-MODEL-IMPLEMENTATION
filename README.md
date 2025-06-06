@@ -37,4 +37,6 @@ Visualizations
 Model training and evaluation
 
 A sample dataset (e.g., spam.csv)
-Output:
+Output:![Image](https://github.com/user-attachments/assets/05763bbe-030d-489b-a8bc-3d59f9784bb2)
+
+![Image](https://github.com/user-attachments/assets/22d704ae-a565-4c2b-b721-78e8d07b6f68)
